@@ -52,7 +52,7 @@
     "eslint-plugin-import": "^2.29.1",
     "stylelint": "^16.2.1",
     "stylelint-config-standard": "^36.0.0",
-    "stylelint-config-prettier": "^9.0.5",
+    "stylelint-config-prettier": "^11.0.0",
     "prettier": "^3.2.5",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.2",
@@ -92,4 +92,3 @@
     "not ie 11"
   ]
 }
-
